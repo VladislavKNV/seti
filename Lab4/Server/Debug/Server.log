@@ -1,0 +1,8 @@
+﻿  Server.cpp
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab4\Server\Server.cpp(1): warning C4603: _WINSOCK_DEPRECATED_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab4\Server\Server.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab4\Server\Server.cpp(3): message : использование предварительно скомпилированного заголовка
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab4\Server\Server.cpp(34,36): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab4\Server\Server.cpp(101,37): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab4\Server\Server.cpp(61): warning C4715: GetRequestFromClient: значение возвращается не при всех путях выполнения
+  Server.vcxproj -> C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab4\Server\Debug\Server.exe

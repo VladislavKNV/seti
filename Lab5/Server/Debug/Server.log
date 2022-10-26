@@ -1,0 +1,10 @@
+﻿  Server.cpp
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab5\Server\Server.cpp(1): warning C4603: _WINSOCK_DEPRECATED_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab5\Server\Server.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab5\Server\Server.cpp(3): message : использование предварительно скомпилированного заголовка
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab5\Server\Server.cpp(30,32): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab5\Server\Server.cpp(44,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab5\Server\Server.cpp(79,32): warning C4996: 'gethostbyaddr': Use getnameinfo() or GetNameInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab5\Server\Server.cpp(47,11): warning C4101: server: неиспользованная локальная переменная
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab5\Server\Server.cpp(48,11): warning C4101: client: неиспользованная локальная переменная
+  Server.vcxproj -> C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab5\Server\Debug\Server.exe

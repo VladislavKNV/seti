@@ -1,0 +1,3 @@
+﻿  ServerU.cpp
+C:\Users\vladi\OneDrive\Рабочий стол\lab3\ServerU\ServerU\ServerU.cpp(23,9): warning C4101: cS: неиспользованная локальная переменная
+  ServerU.vcxproj -> C:\Users\vladi\OneDrive\Рабочий стол\lab3\ServerU\Debug\ServerU.exe

@@ -1,0 +1,2 @@
+C:\Users\vladi\OneDrive\Рабочий стол\Lab4\Server\Debug\Server.exe
+C:\Users\vladi\OneDrive\Рабочий стол\seti\Lab4\Server\Debug\Server.exe
